@@ -10,5 +10,5 @@ Besides, we redefined more appropriate location clusters in order to be more pre
 * Download the datasets:  
   * Historical crimes dataset in Chicago: <br /> https://www.dropbox.com/s/urce7z000srsiav/Crimes_-_2008_to_present.csv
   * Docioeconomic dataset in Chicago per community area: https://www.dropbox.com/s/kodjiy0ctvvam71/chi_se_2008_2012.csv
-* Place them into the data/ directory
+* Place them into a data/ directory
 * The notebook files can now be executed
